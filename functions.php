@@ -1,3 +1,4 @@
+<?php
 //** POST GRID ELEMENT FOR ACF IMAGES ***********
 //********************************
 add_filter( 'vc_gitem_template_attribute_acf_image_custom','vc_gitem_template_attribute_acf_image_custom', 10, 2 );
